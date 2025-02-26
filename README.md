@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data-Engineering-With-AWS
 Resources and projects from Udacity Data Engineering with AWS nano degree programme
 
@@ -38,3 +39,6 @@ In this project,
 
 - Using Airflow to create high grade data pipelines that are dynamic and built from reusable tasks, can be monitored, and allow easy backfills.
 - Create custom operators to perform tasks such as staging the data, filling the data warehouse, and running checks on the data as the final step.
+=======
+# Data-Engineering-With-AWS
+>>>>>>> 58798f14f399303ff92e82e8a2b21a4e45cecb6d
